@@ -1,0 +1,13 @@
+C:\Users\evand\source\repos\GitHub\Employees\bin\Debug\netcoreapp3.1\Employees.exe
+C:\Users\evand\source\repos\GitHub\Employees\bin\Debug\netcoreapp3.1\Employees.deps.json
+C:\Users\evand\source\repos\GitHub\Employees\bin\Debug\netcoreapp3.1\Employees.runtimeconfig.json
+C:\Users\evand\source\repos\GitHub\Employees\bin\Debug\netcoreapp3.1\Employees.runtimeconfig.dev.json
+C:\Users\evand\source\repos\GitHub\Employees\bin\Debug\netcoreapp3.1\Employees.dll
+C:\Users\evand\source\repos\GitHub\Employees\bin\Debug\netcoreapp3.1\Employees.pdb
+C:\Users\evand\source\repos\GitHub\Employees\obj\Debug\netcoreapp3.1\Employees.csprojAssemblyReference.cache
+C:\Users\evand\source\repos\GitHub\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfoInputs.cache
+C:\Users\evand\source\repos\GitHub\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfo.cs
+C:\Users\evand\source\repos\GitHub\Employees\obj\Debug\netcoreapp3.1\Employees.csproj.CoreCompileInputs.cache
+C:\Users\evand\source\repos\GitHub\Employees\obj\Debug\netcoreapp3.1\Employees.dll
+C:\Users\evand\source\repos\GitHub\Employees\obj\Debug\netcoreapp3.1\Employees.pdb
+C:\Users\evand\source\repos\GitHub\Employees\obj\Debug\netcoreapp3.1\Employees.genruntimeconfig.cache
